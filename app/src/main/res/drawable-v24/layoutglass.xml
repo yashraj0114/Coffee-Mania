@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="#205F61">
+
+    </solid>
+    <corners android:radius="20dp">
+
+    </corners>
+
+<!--    5e9ea0-->
+
+
+</shape>
+
+
+
+
+
+
+
+
+
+
+
+    <!--<TextView-->
+    <!--    android:id="@+id/medium_tv"-->
+    <!--    android:layout_width="wrap_content"-->
+    <!--    android:layout_height="wrap_content"-->
+    <!--    android:layout_below="@id/medium_button"-->
+    <!--    android:layout_centerHorizontal="true"-->
+
+    <!--    android:layout_marginTop="5dp"-->
+    <!--    android:text="MEDIUM"-->
+    <!--    android:textColor="@color/black"-->
+
+    <!--    android:textSize="18dp">-->
+
+
+    <!--</TextView>-->
+
+
+
+
+
+
+
+
+
+
+
+    <!--<TextView-->
+    <!--android:id="@+id/madium_amount"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@id/medium_tv"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_marginLeft="40dp"-->
+    <!--android:layout_marginTop="3dp"-->
+    <!--android:text=" $ 20"-->
+    <!--android:textColor="@color/black"-->
+    <!--android:textSize="15dp" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/large_tv"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@id/large_button"-->
+    <!--android:layout_alignParentRight="true"-->
+    <!--android:layout_marginTop="5dp"-->
+    <!--android:layout_marginRight="30dp"-->
+    <!--android:text="LARGE"-->
+    <!--android:textColor="@color/black"-->
+    <!--android:textSize="18dp" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/large_amount"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@id/large_tv"-->
+    <!--android:layout_alignParentRight="true"-->
+    <!--android:layout_centerInParent="true"-->
+    <!--android:layout_marginLeft="40dp"-->
+    <!--android:layout_marginTop="3dp"-->
+    <!--android:layout_marginRight="40dp"-->
+    <!--android:text=" $ 30"-->
+    <!--android:textColor="@color/black"-->
+    <!--android:textSize="15dp" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/small_tv"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@id/small_button"-->
+    <!--android:layout_marginLeft="32dp"-->
+    <!--android:layout_marginTop="5dp"-->
+    <!--android:text="SMALL"-->
+    <!--android:textColor="@color/black"-->
+    <!--android:textSize="18dp" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/small_amount"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@id/small_tv"-->
+    <!--android:layout_marginLeft="40dp"-->
+    <!--android:layout_marginTop="3dp"-->
+    <!--android:text=" $ 10"-->
+    <!--android:textColor="@color/black"-->
+    <!--android:textSize="15dp" />-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
